@@ -40,6 +40,6 @@ Simple Flask app to manage tasks with filter options (All, Pending, Completed)
 
 ## 📫 Let's Connect!
 📧 [nandanaksb4u@gmail.com](mailto:nandanaksb4u@gmail.com)  
-🌐 [LinkedIn (Nandana Ks)](www.linkedin.com/in/nandana-ks-28104725a) 
+🌐 [LinkedIn (www.linkedin.com/in/nandana-ks-28104725a)](https://www.linkedin.com/) 
   
 
